@@ -32,3 +32,4 @@ jobs:
           # publish_dir: ./docs
           external_repository: satouyuuki/satouyuuki.github.io
           publish_branch: main
+
